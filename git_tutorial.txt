@@ -1,0 +1,31 @@
+<----In terminal---->
+
+
+    <--version check-->
+
+git --version
+
+
+    <--configuring git-->
+
+git config --global user.name "My name"
+git config --global user.email "your_register_mail@gmail.com"
+git config --list
+
+
+    <--Basics-->
+cd = change directory
+    cd filename
+ls = list
+    ls
+cd.. = removes selected directory
+    cd..
+mkdir = make directory/creates new folder
+    mkdir new_folder_name
+clear = clean terminal
+    clear
+
+
+    <--git commmands-->
+
+git
